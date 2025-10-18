@@ -1,6 +1,5 @@
 # 💫 About Me:
-- Explore graph algorithms like Strongly Connected Components (SCCs)<br>- ☁️ Build and deploy containerized applications on cloud platforms (especially PaaS)<br>- 🛠️ Tinker with car modifications—currently enhancing my Tata Nexon 2023<br>- 📊 Create visual learning tools like diagrams, cheat sheets, and mini projects<br>- 💼 Experiment with online monetization through freelancing, teaching, and product creation<br>
-
+- Hi, I'm Mohammed Uzair<br>💻 Computer Science Engineer | 💡 Developer & Tech Enthusiast <br> I’m passionate about building intelligent and efficient systems that solve real-world problems.<br> My work spans across web development, IoT, and AI/ML-based recommendation systems.<br> I enjoy learning new technologies, optimizing backend logic, and designing user-friendly interfaces.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mohammed-uzair-mulla) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohammeduzairmulla@gmail.com) 
